@@ -6,3 +6,5 @@
 4. [Тестирование API через Postman](https://docs.google.com/spreadsheets/d/12LpBvrZAqUCXq1WnOaZPdQ7PYXnuh9yCNN_J-EJi0JQ/edit?usp=sharing)
 5. [Написание автотестов Pytest для API](https://github.com/chilloutenjoyer/yandex_api_stand_tests)
 6. [Выполненные задания в тренажере SQL Academy](https://github.com/chilloutenjoyer/sqlacademytrainer/blob/main/README.md)
+---
+# Сертификаты Минцифры
